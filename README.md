@@ -1,107 +1,116 @@
-# Jyoti Singh  
-**Senior Software Engineer | Backend | Distributed Systems & System Design**  
-📞 +91 9621919220  
-✉️ jyoti.singhd102@gmail.com  
-📍 Gurugram, Haryana, India  
+<!-- Header -->
+
+<h1 align="center">Jyoti Singh</h1>
+<p align="center">
+  <strong>Senior Backend Engineer</strong><br/>
+  Java • Microservices • AWS • Distributed Systems • System Design
+</p>
+
+<p align="center">
+  Gurugram, Haryana, India • 
+  <a href="mailto:jyoti.singhd102@gmail.com">jyoti.singhd102@gmail.com</a> • 
+  +91 9621919220
+</p>
 
 ---
 
-## PROFESSIONAL SUMMARY  
-Senior Backend Engineer with 7+ years of experience designing and building scalable, high-availability backend systems for e-commerce and contact-center platforms. Strong expertise in Java, Spring Boot, Microservices, and event-driven architectures, with hands-on experience in AWS-based systems, performance optimization, and production stability. Proven ownership of system design, large-scale revamps, and mentoring, delivering solutions used by millions of users.  
+## Summary
+
+Senior Backend Engineer with 7+ years of experience designing and building **highly scalable, low-latency distributed systems** for e-commerce and telecommunications.
+
+Expert in **Java, Spring Boot, Microservices, and Event-Driven Architectures**, with strong hands-on experience in **AWS cloud and system design (HLD/LLD)**.
+
+Proven track record of delivering **high-availability systems serving millions of users**, improving performance by **30%+**, and driving **20–30% business revenue impact**. Strong ownership mindset with experience in **architecture design, production stability, and mentoring engineers**.
 
 ---
 
-## CORE SKILLS  
+## Skills
 
-**Languages:** Java (8/11/17)  
-**Frameworks:** Spring Boot, Spring Security, Hibernate, JPA, JSP, Servlets  
-**Architecture:** Microservices, Distributed Systems, Event-Driven, System Design (HLD/LLD)  
-**Cloud & Messaging:** AWS (SQS, SNS, Kinesis, S3), Kafka  
-**Databases:** MySQL, MongoDB, Redis  
-**DevOps:** Docker, CI/CD, Jenkins, Drone.io  
-**Testing:** JUnit5, TDD, Postman Script Testing  
-**Tools:** Git, Postman, JMeter, Keycloak  
+**Languages:** Java (8, 11, 17)
 
----
+**Architecture:** Microservices, Distributed Systems, Event-Driven Architecture, REST API Design
 
-## PROFESSIONAL EXPERIENCE  
+**System Design:** Scalability, High Availability, Fault Tolerance, Rate Limiting, Caching Strategies
 
-### HealthKart — Gurgaon, India  
-**Software Development Engineer 2 (SDE2)** | Jan 2022 – Present  
+**Cloud & Messaging:** AWS (SQS, SNS, Kinesis, S3), Kafka
 
-- Led architecture and revamp of offer management system for high-traffic campaigns  
-- Designed low-latency, highly available REST microservices  
-- Built automated order return workflow across platforms  
-- Improved API performance by ~30%  
-- Led system design discussions and ensured production stability  
-- Conducted code reviews and improved CI/CD test coverage  
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis, Druid
+
+**Frameworks:** Spring Boot, Spring Cloud, Spring Security, Hibernate, JPA
+
+**DevOps & Tools:** Docker, Kubernetes, Jenkins, CI/CD, Git
+
+**Other:** Multithreading, Design Patterns (SOLID), API Security, Performance Optimization, Monitoring, Logging, Debugging, Curson AI Agent, CodeX
 
 ---
 
-### Tekege Solutions Pvt. Ltd. — Delhi, India  
-**Senior Java Developer** | May 2018 – Jan 2022  
+## Experience
 
-- Re-architected contact-center platform for scalability and reliability  
-- Built event-driven systems using Kafka and AWS  
-- Developed REST APIs and telecom integrations (Plivo, Exotel) for IVR  
-- Designed async pipelines for high-throughput processing  
-- Executed DB migrations and mentored junior developers  
+### HealthKart — Software Development Engineer 2 (SDE2)
 
----
+*Jan 2022 – Present | Gurgaon, India*
 
-## LEADERSHIP & OWNERSHIP  
-
-- Led system design discussions for scalable backend systems  
-- Mentored junior engineers and conducted code reviews  
-- Owned end-to-end delivery of Offer Revamp  
-- Took architectural ownership for backend systems  
-- Collaborated cross-functionally for feature delivery  
+* Led **end-to-end architecture revamp** of the offer management system, enabling scalable support for **multi-brand high-traffic campaigns**
+* Designed and built **low-latency microservices handling 10K+ QPS traffic**, ensuring **high availability and fault tolerance**
+* Improved API response time by **~30%**, optimizing **database queries, caching layers, and asynchronous processing**
+* Implemented **distributed caching (Redis)** and optimized **cache invalidation strategies** for peak load handling
+* Built an automated order return workflow, reducing manual operations by **40–50%** and improving customer experience
+* Designed **event-driven pipelines using AWS Kinesis**, enabling real-time analytics and tracking
+* Led **production debugging, incident handling, and release management** for critical services
+* Mentored junior engineers and improved code quality via **reviews and CI/CD pipelines**
 
 ---
 
-## KEY PROJECTS  
+### Tekege Solutions Pvt. Ltd. — Senior Java Developer
 
-### Offer Revamp — HealthKart Ecosystem  
-**Tech:** Java, Spring Boot, Microservices, Docker, AWS, Druid, Spark, Keycloak, Redis  
+*May 2018 – Jan 2022 | Delhi, India*
 
-- Led backend revamp across multiple brands  
-- Enabled flexible offer creation → ~20–30% revenue impact  
-- Built scalable microservices with Redis caching  
-- Handled high-traffic sale scenarios serving millions of users  
-
----
-
-### Order Return Journey — HealthKart Ecosystem  
-**Tech:** Java, Spring Boot, Microservices, MongoDB, AWS, Kinesis, Docker, Kapture CX  
-
-- Built self-service return workflow → reduced support dependency by ~40–50%  
-- Implemented real-time tracking using AWS Kinesis  
-- Improved customer experience and operational efficiency  
+* Re-architected the contact center platform into a **scalable microservices architecture**
+* Built **event-driven systems using Kafka and AWS**, enabling **high-throughput processing**
+* Developed **REST APIs and integrations with telecom providers (Plivo, Exotel)** for IVR automation
+* Designed **asynchronous pipelines** for reliable processing of SMS, email, and external services
+* Implemented **queue-based systems and distributed messaging** to ensure **scalability and fault tolerance**
 
 ---
 
-### Inbound Call Automation — Aavaz 361 (B2B Contact Center)  
-**Tech:** Java, Jersey, Redis, Hibernate, Vue.js, ELK, Kafka, Plivo  
+## Projects
 
-- Designed IVR flows for call routing and agent assignment  
-- Built real-time event processing for call lifecycle  
-- Implemented Kafka-based scalable event-driven architecture  
-- Developed billing system and reporting  
+### Offer Revamp — HealthKart Ecosystem
 
----
-
-### Campaign System — Aavaz 361 (B2B Contact Center)  
-**Tech:** Java, Jersey, AWS (SNS, SQS, SES), Hibernate, Vue.js, Kafka  
-
-- Built bulk email campaign system  
-- Integrated AWS SES with retry & failure handling  
-- Designed async pipelines for high throughput  
-- Implemented SQS-based queue processing  
-- Built analytics dashboard for campaign tracking  
+* Led backend revamp across **multiple brands (HealthKart, MuscleBlaze, HKVitals, etc.)**
+* Built **scalable microservices with Redis caching**, supporting **high-traffic sales campaigns**
+* Enabled flexible offer configurations, resulting in **~20–30% revenue impact**
+* Designed system to support **millions of users**, handling **~200–1000 RPS during peak load**
 
 ---
 
-## EDUCATION  
+### Order Return Journey — HealthKart Ecosystem
 
-**B.Tech – Computer Science & Engineering** | 2018  
-Maharana Institute of Professional Studies (AKTU), Kanpur, Uttar Pradesh  
+* Designed and implemented **self-service return workflow**, reducing support dependency by **40–50%**
+* Built **event-driven tracking system using AWS Kinesis** handling **~10K–30K events per second**
+* Improved **customer experience and operational efficiency**
+
+---
+
+### Inbound Call Automation — Aavaz 361 (B2B Contact Center Platform)
+
+* Developed **IVR call flows and real-time event processing** for call lifecycle management
+* Designed **Kafka-based event-driven architecture** using partitions and consumer groups
+* Built **billing system and analytics** for call tracking
+
+---
+
+### Campaign System — Aavaz 361 (B2B Contact Center Platform)
+
+* Developed **scalable email campaign system using AWS SES and SQS**
+* Built **asynchronous pipelines for high-throughput processing**
+* Implemented **analytics dashboard** for tracking delivery and engagement metrics
+
+---
+
+## Education
+
+**B.Tech – Computer Science & Engineering**  
+Maharana Institute of Professional Studies (AKTU), Kanpur, Uttar Pradesh | 2018
+
+---
